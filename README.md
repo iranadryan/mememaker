@@ -1,4 +1,4 @@
-<center><img src="./src/images/logo.svg"/></center>
+<p align="center"><img src="./src/images/logo.svg"/><p>
 
 ## Sobre
 Gerador de memes desenvolvido a partir da API Restful do [imgflip](https://imgflip.com/), onde basta o usuário ecolher um template e inserir os textos desejados a serem inseridos no meme para que ele seja gerado.
@@ -9,7 +9,7 @@ Criado com:
 - [x] **Styled Components**
 
 ## Resultados
-<center><img src="MemeMaker.png" alt="MemeMaker mockup" height="400"/></center>
+<p align="center"><img src="MemeMaker.png" alt="MemeMaker mockup" height="400"/></p>
 
 ## Execute a aplicação
 ```sh
